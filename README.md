@@ -1,8 +1,8 @@
-Incoming PhD student @ Rockefeller
-Currently Post-Bacc RA with [Satia Lab @ NYGC](https://satijalab.org/)
-Formerly Undergrad RA with [Koh Lab @ UChicago](https://drewkohlab.org/)
+Incoming PhD student @ Rockefeller  
+Currently post-bacc RA with [Satija Lab @ NYGC](https://satijalab.org/)  
+Formerly undergrad RA with [Koh Lab @ UChicago](https://drewkohlab.org/)  
 
-[https://satijalab.org/viperturb-seq/](https://satijalab.org/viperturb-seq/)
+[https://satijalab.org/viperturb-seq/](https://satijalab.org/viperturb-seq/)  
 
 <!--
 **alex-bradu/alex-bradu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
